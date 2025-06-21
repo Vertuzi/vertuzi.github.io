@@ -16,12 +16,8 @@ title: Home
 ### Data Structure
 ### Databases
 
-
+### Download
 - [Original Text Based Game File](assets/files/TextBasedGameOriginal.py)
 - [Project B](link) – brief description  
-
-### Skills
-
-### Code Review
 
 JavaScript · Python · React · …
