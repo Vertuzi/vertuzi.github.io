@@ -5,15 +5,19 @@ title: Home
 
 ## CS-499 ePortfolio
 
-I’m a software engineer specializing in X, Y, and Z.
+### Professional Self-Assessment
+
 ### Code Review
 
    [![Code Review](https://img.youtube.com/vi/jqw2Qa-nx38/0.jpg)](https://www.youtube.com/watch?v=jqw2Qa-nx38)
 
-### Projects
+### Artifact
+### Software Design and Engineering
+### Data Structure
+### Databases
 
 
-- [Project A](link) – brief description  
+- [Original Text Based Game File](assets/files/TextBasedGameOriginal.py)
 - [Project B](link) – brief description  
 
 ### Skills
