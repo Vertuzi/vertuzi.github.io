@@ -19,12 +19,18 @@ With my classes at SNHU being completely online it pushed me to become more inde
 The artifact that I used for all three enhancements was a text based Python game I made early on here at my time at SNHU. It is a very simple game that requires the player to traverse the different rooms of the map and find the items within each before they can go on to fight the dragon. If the player finds the dragon before finding all six of the items then they lose the game. Due to it being one of the first things I wrote in Python there are many changes that need to be made to have it fit best coding practices, be secure, and be engaging. The game in it's original state is not very engaging after you have played it a few times. This is due to nothing driving you further once you have beat it once.
 
 
-### Software Design and Engineering
-### Data Structure
-### Databases
-
+### Software Design and Engineering - First Enhancement
+For the first enhancement I mainly focused on making the codebase more object oriented. I did this by breaking it down into 4 seperate classes player, room, game and mongoDHhandler. Each of which has various functions inside that allow the game to run. I also wanted to make the game more enjoyable and engaging I did within this enahancement in combination with the second
+- [Enhancement 1 Narrative] 
+### Data Structure - Second Enhancement
+The second enhancement 
+- [Enhancement 2 Narrative]
+### Databases - Third Enhancement
+- [Enhancement 3 Narrative]
 ### Download
 - [Original Text Based Game File](assets/files/TextBasedGameOriginal.py)
-- [Project B](link) – brief description  
+- [Project B](link) – brief description
+
+-  
 
 JavaScript · Python · React · …
