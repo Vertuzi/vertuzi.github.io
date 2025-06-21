@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Hello, I'm **Your Name**
+## CS-499 ePortfolio
 
 I’m a software engineer specializing in X, Y, and Z.
 
