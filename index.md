@@ -29,9 +29,7 @@ The second enhancement that I made to the game was implement a index data struct
 The third enhancement I made worked in combination with the second enhancement. I wanted players to be able to compete with each other around the world so I created a MongoDB using Mongo Compass and the using Mongo Atlas was able to host the database on a Amazon AWS server. This enhancement shows that I am able to work and create software that not only can be locally ran but also hosted or connected to around the globe. I believe this is an important skill or knowledge base to have as in the ever connecting world we need.
 - [Enhancement 3 Narrative]
 ### Download
-- [Original Text Based Game File](assets/files/TextBasedGameOriginal.py)
-- [Project B](link) – brief description
-
--  
-
+- [Original Text Based Game File](assets/files/TextBasedGameOriginal.py) - Original File does not run
+- [Revisted Text Base Game File](assets/files/PythonGameRevisited.zip) – Download and Unzip to run in IDE of choice
+- [Executable Version](assets/files/main.exe) - Download to run in terminal
 JavaScript · Python · React · …
