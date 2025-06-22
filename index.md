@@ -24,12 +24,14 @@ For the first enhancement I mainly focused on making the codebase more object or
 
 ### Data Structure - Second Enhancement
 The second enhancement that I made to the game was implement a index data structure that would track timed runs. I did this in combination with having the user input a name so that their scores at the end of a succesful run can be tracked and seen on the leaderboard if it is quick enough. The index itself lives within the MongoDB database that I will cover in the next enhancement section. I believe this enhancement shows that I understand an important aspect of developing software. Knowing what will make it enjoyable or engaging for the users. You can create a great coding project but if there is nothing there to give the user satisfaction then they won't want to use the software. By adding in the timed runs I have taken a game someone might play three or four times and made it to where people could play it hundreds of times trying to continue to imrove their best result.
-[Enhancement 2 Narrative]
+
 ### Databases - Third Enhancement
 The third enhancement I made worked in combination with the second enhancement. I wanted players to be able to compete with each other around the world so I created a MongoDB using Mongo Compass and the using Mongo Atlas was able to host the database on a Amazon AWS server. This enhancement shows that I am able to work and create software that not only can be locally ran but also hosted or connected to around the globe. I believe this is an important skill or knowledge base to have as in the ever connecting world we need.
-[Enhancement 3 Narrative]
+
 ### Download
-- [Enhancement 1 Narrative](assets/files/Enhancement One Narrative.pdf) 
+- [Enhancement 1 Narrative](assets/files/Enhancement One Narrative.pdf)
+- [Enhancement 2 Narrative](assets/files/Enhancement Two Narrative.pdf)
+- [Enhancement 3 Narrative](assets/files/Enhancement Three Narrative.pdf)
 - [Original Text Based Game File](assets/files/TextBasedGameOriginal.py) - Original File does not run
 - [Revisted Text Base Game File](assets/files/PythonGameRevisited.zip) – Download and Unzip to run in IDE of choice
 - [Executable Version](assets/files/main.exe) - Download to run in terminal
