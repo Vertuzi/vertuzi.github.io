@@ -35,4 +35,3 @@ The third enhancement I made worked in combination with the second enhancement. 
 - [Original Text Based Game File](assets/files/TextBasedGameOriginal.py) - Original File does not run
 - [Revisted Text Base Game File](assets/files/PythonGameRevisited.zip) – Download and Unzip to run in IDE of choice
 - [Executable Version](assets/files/main.exe) - Download to run in terminal
-JavaScript · Python · React · …
