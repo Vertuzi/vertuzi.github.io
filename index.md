@@ -23,7 +23,7 @@ The artifact that I used for all three enhancements was a text based Python game
 For the first enhancement I mainly focused on making the codebase more object oriented. I did this by breaking it down into 4 seperate classes player, room, game and mongoDHhandler. Each of which has various functions inside that allow the game to run. I also wanted to make the game more enjoyable and engaging I did within this enahancement in combination with the second by adding in timed runs which allows the player to strive for faster times once they first beat the game.
 - [Enhancement 1 Narrative] 
 ### Data Structure - Second Enhancement
-The second enhancement that I made to the game was implement a index data structure that woudl track timed runs. I did this in combination with having the user input a name so that their scores at the end of a succesful run can be tracked and seen on the leaderboard if it is quick enough. The index itself lives within the MongoDB database that I will cover in the next enhancement section.
+The second enhancement that I made to the game was implement a index data structure that would track timed runs. I did this in combination with having the user input a name so that their scores at the end of a succesful run can be tracked and seen on the leaderboard if it is quick enough. The index itself lives within the MongoDB database that I will cover in the next enhancement section.
 - [Enhancement 2 Narrative]
 ### Databases - Third Enhancement
 - [Enhancement 3 Narrative]
